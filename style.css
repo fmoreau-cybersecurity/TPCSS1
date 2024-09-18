@@ -1,11 +1,25 @@
-html {
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
 
-    background-color: #fffb00;
-  }
-  
-  body {
-    width: 0 auto;
-    margin: 0 auto;
-    background-color: #ff9500;
-    padding: 20px 20px 20px 20px;
-  }
+.centre {
+  text-align: center;
+}
+.header {
+  background-color: #5bc0de;
+  color: #fff;
+  padding: 1rem;
+}
+
+.main {
+  background-color: #f0ad4e;
+  padding: 2rem;
+}
+
+.footer {
+  background-color: #90ee90;
+  color: #fff;
+  padding: 1rem;
+}
