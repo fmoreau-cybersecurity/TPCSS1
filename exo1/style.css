@@ -9,17 +9,18 @@ body {
 }
 .header {
   background-color: #5bc0de;
-  color: #fff;
-  padding: 1rem;
+  color: #000000;
+  padding:1rem;
 }
 
 .main {
   background-color: #f0ad4e;
-  padding: 2rem;
+  color:black;
+  padding: 19.22rem;
 }
 
 .footer {
   background-color: #90ee90;
-  color: #fff;
-  padding: 1rem;
+  color: #000000;
+  padding:1rem;
 }
