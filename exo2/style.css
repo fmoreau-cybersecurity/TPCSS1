@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.centre {
+  text-align: center;
+}
+.header {
+  background-color: #5bc0de;
+  color: #000000;
+  padding:1rem;
+}
+
+.main {
+  background-color: #f0ad4e;
+  color:black;
+  padding:19.55rem
+}
+
+.footer {
+  background-color: #90ee90;
+  color: #000000;
+  padding:1rem;
+}
+.bande{
+  position: fixed;
+  background-color: #ca6db3;
+  color:black;
+  left: 0%;
+  height: 309px;
+}
