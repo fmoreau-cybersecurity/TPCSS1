@@ -7,19 +7,11 @@ body {
 .centre {
   text-align: center;
 }
-.aside {
-  background-color: #3f1c22;
-  width: 20%;
-  padding: 10px;
-  float: left;
-  height: 75.25vh;
-  text-align: center;}
 .header {
   background-color: #5bc0de;
   color: #000000;
   padding:1rem;
 }
-
 
 .main {
   background-color: #f0ad4e;
@@ -32,4 +24,10 @@ body {
   color: #000000;
   padding:1rem;
 }
-
+.bande{
+  position: fixed;
+  background-color: #ca6db3;
+  color:black;
+  left: 0%;
+  height: 309px;
+}
